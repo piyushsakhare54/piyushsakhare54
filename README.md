@@ -8,7 +8,7 @@
 {https://www.instagram.com/thirdwallbreak?utm_source=ig_web_button_share_sheet&igsh=N2xwM2did2t2MWd0}
 
 ✨ My Projects are, "Touchless scrolling system", "Full Palm", "Jarvis" and now working on "AGI Open_lab"<br/>
-🕶 [Website]{https://pinasa.netlify.app/}
+🕶 [Website]{https://pinasa.netlify.app}
 
 
 # 💻 Tech Stack:
